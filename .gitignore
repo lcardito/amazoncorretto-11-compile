@@ -1,0 +1,11 @@
+*.versionsBackup
+*.class
+target/
+.idea/
+*.iml
+.DS_Store
+.cache
+log
+.sdkmanrc
+.gjf_cache/
+gjf/cache/
